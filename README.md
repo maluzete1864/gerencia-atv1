@@ -5,3 +5,5 @@
 <img width="250" height="130" alt="image" src="https://github.com/user-attachments/assets/c6236c7c-dbb3-4e8d-871a-9f5c42463fd1" />
 <h3>Seita das Máscaras</h3>
 <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/d7697915-d031-455d-85d5-6ba0f32f3caa" />
+<h3>Equipe Desconjuração</h3>
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/ecae3f32-f93e-4b51-9422-e5780eb4995d" />
